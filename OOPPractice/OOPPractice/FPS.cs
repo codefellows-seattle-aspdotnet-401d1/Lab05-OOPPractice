@@ -8,6 +8,13 @@ namespace OOPPractice
     {
         public bool Online { get; set; }
 
+        public FPS(string title, string platform, bool online)
+        {
+            Title = title;
+            Platform = platform;
+            Online = online;
+        }
+
         public override void Cost(int price)
         {
             Console.WriteLine($"This game costs ${price}.");
