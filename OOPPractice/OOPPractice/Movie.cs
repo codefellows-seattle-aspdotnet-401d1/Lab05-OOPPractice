@@ -4,7 +4,13 @@ using System.Text;
 
 namespace OOPPractice
 {
-    class Movie
+    abstract class Movie : Media
     {
+        public string TheaterRelease { get; set; }
+
+        public virtual void HasSubtitles()
+        {
+            Console.WriteLine("This title has subtitles!");
+        }
     }
 }
