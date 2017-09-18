@@ -1,0 +1,11 @@
+C:\Users\akure\Source\Repos\Lab05-OOPPractice\OOPPractice\OOPPractice\bin\Debug\netcoreapp2.0\OOPPractice.deps.json
+C:\Users\akure\Source\Repos\Lab05-OOPPractice\OOPPractice\OOPPractice\bin\Debug\netcoreapp2.0\OOPPractice.runtimeconfig.json
+C:\Users\akure\Source\Repos\Lab05-OOPPractice\OOPPractice\OOPPractice\bin\Debug\netcoreapp2.0\OOPPractice.runtimeconfig.dev.json
+C:\Users\akure\Source\Repos\Lab05-OOPPractice\OOPPractice\OOPPractice\bin\Debug\netcoreapp2.0\OOPPractice.dll
+C:\Users\akure\Source\Repos\Lab05-OOPPractice\OOPPractice\OOPPractice\bin\Debug\netcoreapp2.0\OOPPractice.pdb
+C:\Users\akure\Source\Repos\Lab05-OOPPractice\OOPPractice\OOPPractice\obj\Debug\netcoreapp2.0\OOPPractice.csprojResolveAssemblyReference.cache
+C:\Users\akure\Source\Repos\Lab05-OOPPractice\OOPPractice\OOPPractice\obj\Debug\netcoreapp2.0\OOPPractice.csproj.CoreCompileInputs.cache
+C:\Users\akure\Source\Repos\Lab05-OOPPractice\OOPPractice\OOPPractice\obj\Debug\netcoreapp2.0\OOPPractice.AssemblyInfoInputs.cache
+C:\Users\akure\Source\Repos\Lab05-OOPPractice\OOPPractice\OOPPractice\obj\Debug\netcoreapp2.0\OOPPractice.AssemblyInfo.cs
+C:\Users\akure\Source\Repos\Lab05-OOPPractice\OOPPractice\OOPPractice\obj\Debug\netcoreapp2.0\OOPPractice.dll
+C:\Users\akure\Source\Repos\Lab05-OOPPractice\OOPPractice\OOPPractice\obj\Debug\netcoreapp2.0\OOPPractice.pdb

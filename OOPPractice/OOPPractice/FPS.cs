@@ -17,7 +17,7 @@ namespace OOPPractice
 
         public override void Cost(int price)
         {
-            Console.WriteLine($"This game costs ${price}.");
+            Console.WriteLine($"{Title} costs ${price}.");
             Price = price;
         }
 
@@ -35,7 +35,7 @@ namespace OOPPractice
 
         public void HasCoolWeapons()
         {
-            Console.WriteLine("This game has cool weapons.");
+            Console.WriteLine($"{Title} has cool weapons.");
         }
     }
 }
