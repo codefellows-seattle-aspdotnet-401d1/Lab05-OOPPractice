@@ -6,7 +6,6 @@ namespace OOPPractice
 {
     class FPS : VideoGame
     {
-        public int Price { get; set; }
         public bool Online { get; set; }
 
         public override void Cost(int price)

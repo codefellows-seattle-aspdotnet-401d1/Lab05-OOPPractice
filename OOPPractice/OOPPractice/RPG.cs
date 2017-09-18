@@ -6,7 +6,6 @@ namespace OOPPractice
 {
     class RPG : VideoGame
     {
-        public int Price { get; set; }
         public bool CustomCharacter { get; set; }
 
         public override void Cost(int price)

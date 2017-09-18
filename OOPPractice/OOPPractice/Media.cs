@@ -8,6 +8,8 @@ namespace OOPPractice
     {
         public string Title { get; set; }
         public string Release { get; set; }
+        public int Price { get; set; }
+
 
         public void IsReleased()
         {
