@@ -8,6 +8,12 @@ namespace OOPPractice
     {
         public string Theme { get; set; }
 
+        public Comedy(string title, string theme)
+        {
+            Title = title;
+            Theme = theme;
+        }
+
         public override void Cost(int price)
         {
             Console.WriteLine($"This movie costs ${price}.");
