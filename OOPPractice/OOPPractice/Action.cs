@@ -8,6 +8,12 @@ namespace OOPPractice
     {
         public string Star { get; set; }
 
+        public Action(string title, string star)
+        {
+            Title = title;
+            Star = star;
+        }
+
         public override void Cost(int price)
         {
             Console.WriteLine($"This movie costs ${price}.");
