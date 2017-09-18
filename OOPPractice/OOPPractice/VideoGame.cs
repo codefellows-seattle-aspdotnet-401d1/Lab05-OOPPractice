@@ -4,7 +4,10 @@ using System.Text;
 
 namespace OOPPractice
 {
-    class VideoGame
+    abstract class VideoGame : Media
     {
+        public string Platform { get; set; }
+
+        public abstract void IsAwesome();
     }
 }
