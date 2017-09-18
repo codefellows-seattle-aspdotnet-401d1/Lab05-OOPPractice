@@ -8,6 +8,6 @@ namespace OOPPractice
     {
         public string Platform { get; set; }
 
-        public abstract void IsAwesome();
+        public abstract void IsAwesome(bool confirm);
     }
 }

@@ -4,7 +4,28 @@ using System.Text;
 
 namespace OOPPractice
 {
-    class RPG
+    class RPG : VideoGame
     {
+        public int Price { get; set; }
+        public bool CustomCharacter { get; set; }
+
+        public override void Cost(int price)
+        {
+            Console.WriteLine($"This game costs ${price}.");
+            this.Price = price;
+        }
+
+        public override void IsAwesome(bool confirm)
+        {
+            if (confirm == true)
+            {
+                Console.WriteLine("This game is awesome.");
+            }
+            else
+            {
+                Console.WriteLine("This game is not awesome.");
+            }
+            CustomCharacter = confirm;
+        }
     }
 }

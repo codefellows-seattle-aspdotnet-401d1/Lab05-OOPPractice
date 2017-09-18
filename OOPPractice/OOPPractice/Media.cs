@@ -19,6 +19,6 @@ namespace OOPPractice
             Console.WriteLine("This item is available for purchase!");
         }
 
-        public abstract void Cost();
+        public abstract void Cost(int price);
     }
 }
