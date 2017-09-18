@@ -8,6 +8,13 @@ namespace OOPPractice
     {
         public bool IsCountry { get; set; }
 
+        public Bad(string title, string artist, bool isCountry)
+        {
+            Title = title;
+            Artist = artist;
+            IsCountry = isCountry;
+        }
+
         public override void Cost(int price)
         {
             Console.WriteLine($"This garbage song costs ${price}.");
