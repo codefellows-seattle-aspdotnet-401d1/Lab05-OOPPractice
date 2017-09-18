@@ -6,9 +6,9 @@ namespace Lab05OOPPractice
 {
     abstract class MainPanel
     {
-        public int Switches { get; set; }
+        abstract public int Switches { get; set; }
 
-        public int Outlets { get; set; }
+        abstract public int Outlets { get; set; }
 
         public virtual int WireGauge
         {
@@ -38,7 +38,7 @@ namespace Lab05OOPPractice
         {
             get
             {
-                return "Standard 15 amp receptical.";
+                return "Standard 15 amp receptical";
             }
             set
             {
