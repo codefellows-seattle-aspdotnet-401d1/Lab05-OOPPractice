@@ -4,7 +4,15 @@ using System.Text;
 
 namespace OOPPractice
 {
-    class Music
+    abstract class Music : Media
     {
+        public string Artist { get; set; }
+
+        public virtual void IsCollaboration()
+        {
+            Console.WriteLine("This song is a collaborative effort.");
+        }
+
+        public abstract void HasMusicVideo();
     }
 }
