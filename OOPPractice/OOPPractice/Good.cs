@@ -8,6 +8,13 @@ namespace OOPPractice
     {
         public string InstrumentType { get; set; }
 
+        public Good(string title, string artist, string instrument)
+        {
+            Title = title;
+            Artist = artist;
+            InstrumentType = instrument;
+        }
+
         public override void Cost(int price)
         {
             Console.WriteLine($"This song costs ${price}.");
