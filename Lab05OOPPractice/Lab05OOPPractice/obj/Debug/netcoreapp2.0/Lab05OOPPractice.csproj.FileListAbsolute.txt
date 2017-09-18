@@ -1,0 +1,11 @@
+C:\Users\admin\codefellows\401\Lab05-OOPPractice\Lab05\Lab05OOPPractice\Lab05OOPPractice\obj\Debug\netcoreapp2.0\Lab05OOPPractice.csprojResolveAssemblyReference.cache
+C:\Users\admin\codefellows\401\Lab05-OOPPractice\Lab05\Lab05OOPPractice\Lab05OOPPractice\obj\Debug\netcoreapp2.0\Lab05OOPPractice.csproj.CoreCompileInputs.cache
+C:\Users\admin\codefellows\401\Lab05-OOPPractice\Lab05\Lab05OOPPractice\Lab05OOPPractice\obj\Debug\netcoreapp2.0\Lab05OOPPractice.AssemblyInfoInputs.cache
+C:\Users\admin\codefellows\401\Lab05-OOPPractice\Lab05\Lab05OOPPractice\Lab05OOPPractice\obj\Debug\netcoreapp2.0\Lab05OOPPractice.AssemblyInfo.cs
+C:\Users\admin\codefellows\401\Lab05-OOPPractice\Lab05\Lab05OOPPractice\Lab05OOPPractice\bin\Debug\netcoreapp2.0\Lab05OOPPractice.deps.json
+C:\Users\admin\codefellows\401\Lab05-OOPPractice\Lab05\Lab05OOPPractice\Lab05OOPPractice\bin\Debug\netcoreapp2.0\Lab05OOPPractice.runtimeconfig.json
+C:\Users\admin\codefellows\401\Lab05-OOPPractice\Lab05\Lab05OOPPractice\Lab05OOPPractice\bin\Debug\netcoreapp2.0\Lab05OOPPractice.runtimeconfig.dev.json
+C:\Users\admin\codefellows\401\Lab05-OOPPractice\Lab05\Lab05OOPPractice\Lab05OOPPractice\bin\Debug\netcoreapp2.0\Lab05OOPPractice.dll
+C:\Users\admin\codefellows\401\Lab05-OOPPractice\Lab05\Lab05OOPPractice\Lab05OOPPractice\bin\Debug\netcoreapp2.0\Lab05OOPPractice.pdb
+C:\Users\admin\codefellows\401\Lab05-OOPPractice\Lab05\Lab05OOPPractice\Lab05OOPPractice\obj\Debug\netcoreapp2.0\Lab05OOPPractice.dll
+C:\Users\admin\codefellows\401\Lab05-OOPPractice\Lab05\Lab05OOPPractice\Lab05OOPPractice\obj\Debug\netcoreapp2.0\Lab05OOPPractice.pdb
