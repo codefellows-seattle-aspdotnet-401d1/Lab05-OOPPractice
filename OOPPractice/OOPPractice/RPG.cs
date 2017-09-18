@@ -8,6 +8,13 @@ namespace OOPPractice
     {
         public bool CustomCharacter { get; set; }
 
+        public RPG(string title, string platform, bool custom)
+        {
+            Title = title;
+            Platform = platform;
+            IsAwesome(custom);
+        }
+
         public override void Cost(int price)
         {
             Console.WriteLine($"This game costs ${price}.");
