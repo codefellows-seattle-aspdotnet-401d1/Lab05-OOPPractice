@@ -27,5 +27,10 @@ namespace OOPPractice
             }
             CustomCharacter = confirm;
         }
+
+        public void HasEpicStoryline()
+        {
+            Console.WriteLine("This game has an epic story!");
+        }
     }
 }
