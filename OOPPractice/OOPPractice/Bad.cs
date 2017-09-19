@@ -15,6 +15,7 @@ namespace OOPPractice
             IsCountry = isCountry;
         }
 
+        //The next two methods are being overridden because they are abstract
         public override void Cost(int price)
         {
             Console.WriteLine($"This garbage song costs ${price}.");

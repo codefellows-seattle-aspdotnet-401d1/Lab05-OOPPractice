@@ -15,6 +15,7 @@ namespace OOPPractice
             Online = online;
         }
 
+        //Here we are overriding the methods because they are abstract and therefore required
         public override void Cost(int price)
         {
             Console.WriteLine($"{Title} costs ${price}.");

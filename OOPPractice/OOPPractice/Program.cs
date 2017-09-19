@@ -6,6 +6,7 @@ namespace OOPPractice
     {
         static void Main(string[] args)
         {
+            //Just a series of demo instantiations for each of the derivative classes
             RPG finalFantasy = new RPG("Final Fantasy", "NES", true);
             finalFantasy.HasEpicStoryline();
             finalFantasy.IsAvailable();

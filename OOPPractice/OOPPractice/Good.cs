@@ -15,12 +15,14 @@ namespace OOPPractice
             InstrumentType = instrument;
         }
 
+        //This method is required as a derivative of Media
         public override void Cost(int price)
         {
             Console.WriteLine($"This song costs ${price}.");
             Price = price;
         }
 
+        //This method is required as a derivative of Music
         public override void HasMusicVideo()
         {
             Console.WriteLine("This song has a music video!");

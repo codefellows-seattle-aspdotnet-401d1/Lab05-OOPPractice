@@ -8,6 +8,7 @@ namespace OOPPractice
     {
         public string Artist { get; set; }
 
+        //This method may be overridden by any derivative classes
         public virtual void IsCollaboration()
         {
             Console.WriteLine("This song is a collaborative effort.");

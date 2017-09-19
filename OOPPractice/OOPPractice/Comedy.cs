@@ -14,6 +14,7 @@ namespace OOPPractice
             Theme = theme;
         }
 
+        //This method is a required override as a derivative of Media
         public override void Cost(int price)
         {
             Console.WriteLine($"This movie costs ${price}.");
