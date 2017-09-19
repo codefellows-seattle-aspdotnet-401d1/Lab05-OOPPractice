@@ -1,0 +1,11 @@
+C:\projects\401d1\lab05-brian\lab05-brian\lab05-brian\bin\Debug\netcoreapp2.0\lab05-brian.deps.json
+C:\projects\401d1\lab05-brian\lab05-brian\lab05-brian\bin\Debug\netcoreapp2.0\lab05-brian.runtimeconfig.json
+C:\projects\401d1\lab05-brian\lab05-brian\lab05-brian\bin\Debug\netcoreapp2.0\lab05-brian.runtimeconfig.dev.json
+C:\projects\401d1\lab05-brian\lab05-brian\lab05-brian\bin\Debug\netcoreapp2.0\lab05-brian.dll
+C:\projects\401d1\lab05-brian\lab05-brian\lab05-brian\bin\Debug\netcoreapp2.0\lab05-brian.pdb
+C:\projects\401d1\lab05-brian\lab05-brian\lab05-brian\obj\Debug\netcoreapp2.0\lab05-brian.csprojResolveAssemblyReference.cache
+C:\projects\401d1\lab05-brian\lab05-brian\lab05-brian\obj\Debug\netcoreapp2.0\lab05-brian.csproj.CoreCompileInputs.cache
+C:\projects\401d1\lab05-brian\lab05-brian\lab05-brian\obj\Debug\netcoreapp2.0\lab05-brian.AssemblyInfoInputs.cache
+C:\projects\401d1\lab05-brian\lab05-brian\lab05-brian\obj\Debug\netcoreapp2.0\lab05-brian.AssemblyInfo.cs
+C:\projects\401d1\lab05-brian\lab05-brian\lab05-brian\obj\Debug\netcoreapp2.0\lab05-brian.dll
+C:\projects\401d1\lab05-brian\lab05-brian\lab05-brian\obj\Debug\netcoreapp2.0\lab05-brian.pdb
