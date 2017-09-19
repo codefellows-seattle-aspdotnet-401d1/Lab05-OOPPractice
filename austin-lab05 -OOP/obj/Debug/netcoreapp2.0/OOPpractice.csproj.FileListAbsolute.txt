@@ -1,0 +1,11 @@
+C:\Users\acohr\source\repos\Lab05-OOPPractice\austin-lab05 -OOP\obj\Debug\netcoreapp2.0\OOPpractice.csprojResolveAssemblyReference.cache
+C:\Users\acohr\source\repos\Lab05-OOPPractice\austin-lab05 -OOP\obj\Debug\netcoreapp2.0\OOPpractice.csproj.CoreCompileInputs.cache
+C:\Users\acohr\source\repos\Lab05-OOPPractice\austin-lab05 -OOP\obj\Debug\netcoreapp2.0\OOPpractice.AssemblyInfoInputs.cache
+C:\Users\acohr\source\repos\Lab05-OOPPractice\austin-lab05 -OOP\obj\Debug\netcoreapp2.0\OOPpractice.AssemblyInfo.cs
+C:\Users\acohr\source\repos\Lab05-OOPPractice\austin-lab05 -OOP\bin\Debug\netcoreapp2.0\OOPpractice.deps.json
+C:\Users\acohr\source\repos\Lab05-OOPPractice\austin-lab05 -OOP\bin\Debug\netcoreapp2.0\OOPpractice.runtimeconfig.json
+C:\Users\acohr\source\repos\Lab05-OOPPractice\austin-lab05 -OOP\bin\Debug\netcoreapp2.0\OOPpractice.runtimeconfig.dev.json
+C:\Users\acohr\source\repos\Lab05-OOPPractice\austin-lab05 -OOP\bin\Debug\netcoreapp2.0\OOPpractice.dll
+C:\Users\acohr\source\repos\Lab05-OOPPractice\austin-lab05 -OOP\bin\Debug\netcoreapp2.0\OOPpractice.pdb
+C:\Users\acohr\source\repos\Lab05-OOPPractice\austin-lab05 -OOP\obj\Debug\netcoreapp2.0\OOPpractice.dll
+C:\Users\acohr\source\repos\Lab05-OOPPractice\austin-lab05 -OOP\obj\Debug\netcoreapp2.0\OOPpractice.pdb
