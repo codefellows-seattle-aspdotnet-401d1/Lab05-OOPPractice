@@ -1,0 +1,11 @@
+C:\Users\shop2\Source\Repos\Lab05-OOPPractice\lab05-erik\lab05-erik\bin\Debug\netcoreapp2.0\lab05_erik.deps.json
+C:\Users\shop2\Source\Repos\Lab05-OOPPractice\lab05-erik\lab05-erik\bin\Debug\netcoreapp2.0\lab05_erik.runtimeconfig.json
+C:\Users\shop2\Source\Repos\Lab05-OOPPractice\lab05-erik\lab05-erik\bin\Debug\netcoreapp2.0\lab05_erik.runtimeconfig.dev.json
+C:\Users\shop2\Source\Repos\Lab05-OOPPractice\lab05-erik\lab05-erik\bin\Debug\netcoreapp2.0\lab05_erik.dll
+C:\Users\shop2\Source\Repos\Lab05-OOPPractice\lab05-erik\lab05-erik\bin\Debug\netcoreapp2.0\lab05_erik.pdb
+C:\Users\shop2\Source\Repos\Lab05-OOPPractice\lab05-erik\lab05-erik\obj\Debug\netcoreapp2.0\lab05_erik.csprojResolveAssemblyReference.cache
+C:\Users\shop2\Source\Repos\Lab05-OOPPractice\lab05-erik\lab05-erik\obj\Debug\netcoreapp2.0\lab05_erik.csproj.CoreCompileInputs.cache
+C:\Users\shop2\Source\Repos\Lab05-OOPPractice\lab05-erik\lab05-erik\obj\Debug\netcoreapp2.0\lab05_erik.AssemblyInfoInputs.cache
+C:\Users\shop2\Source\Repos\Lab05-OOPPractice\lab05-erik\lab05-erik\obj\Debug\netcoreapp2.0\lab05_erik.AssemblyInfo.cs
+C:\Users\shop2\Source\Repos\Lab05-OOPPractice\lab05-erik\lab05-erik\obj\Debug\netcoreapp2.0\lab05_erik.dll
+C:\Users\shop2\Source\Repos\Lab05-OOPPractice\lab05-erik\lab05-erik\obj\Debug\netcoreapp2.0\lab05_erik.pdb
