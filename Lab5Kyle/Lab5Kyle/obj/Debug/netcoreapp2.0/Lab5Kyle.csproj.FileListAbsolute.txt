@@ -1,0 +1,11 @@
+C:\Users\Kyler\source\repos\Lab05-OOPPractice\Lab5Kyle\Lab5Kyle\bin\Debug\netcoreapp2.0\Lab5Kyle.deps.json
+C:\Users\Kyler\source\repos\Lab05-OOPPractice\Lab5Kyle\Lab5Kyle\bin\Debug\netcoreapp2.0\Lab5Kyle.runtimeconfig.json
+C:\Users\Kyler\source\repos\Lab05-OOPPractice\Lab5Kyle\Lab5Kyle\bin\Debug\netcoreapp2.0\Lab5Kyle.runtimeconfig.dev.json
+C:\Users\Kyler\source\repos\Lab05-OOPPractice\Lab5Kyle\Lab5Kyle\bin\Debug\netcoreapp2.0\Lab5Kyle.dll
+C:\Users\Kyler\source\repos\Lab05-OOPPractice\Lab5Kyle\Lab5Kyle\bin\Debug\netcoreapp2.0\Lab5Kyle.pdb
+C:\Users\Kyler\source\repos\Lab05-OOPPractice\Lab5Kyle\Lab5Kyle\obj\Debug\netcoreapp2.0\Lab5Kyle.csprojResolveAssemblyReference.cache
+C:\Users\Kyler\source\repos\Lab05-OOPPractice\Lab5Kyle\Lab5Kyle\obj\Debug\netcoreapp2.0\Lab5Kyle.csproj.CoreCompileInputs.cache
+C:\Users\Kyler\source\repos\Lab05-OOPPractice\Lab5Kyle\Lab5Kyle\obj\Debug\netcoreapp2.0\Lab5Kyle.AssemblyInfoInputs.cache
+C:\Users\Kyler\source\repos\Lab05-OOPPractice\Lab5Kyle\Lab5Kyle\obj\Debug\netcoreapp2.0\Lab5Kyle.AssemblyInfo.cs
+C:\Users\Kyler\source\repos\Lab05-OOPPractice\Lab5Kyle\Lab5Kyle\obj\Debug\netcoreapp2.0\Lab5Kyle.dll
+C:\Users\Kyler\source\repos\Lab05-OOPPractice\Lab5Kyle\Lab5Kyle\obj\Debug\netcoreapp2.0\Lab5Kyle.pdb
