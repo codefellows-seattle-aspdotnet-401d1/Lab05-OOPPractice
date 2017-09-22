@@ -1,0 +1,11 @@
+C:\Users\shami\source\repos\Lab05-OOPPractice\lab05_miya\lab05_miya\bin\Debug\netcoreapp2.0\lab05_miya.deps.json
+C:\Users\shami\source\repos\Lab05-OOPPractice\lab05_miya\lab05_miya\bin\Debug\netcoreapp2.0\lab05_miya.runtimeconfig.json
+C:\Users\shami\source\repos\Lab05-OOPPractice\lab05_miya\lab05_miya\bin\Debug\netcoreapp2.0\lab05_miya.runtimeconfig.dev.json
+C:\Users\shami\source\repos\Lab05-OOPPractice\lab05_miya\lab05_miya\bin\Debug\netcoreapp2.0\lab05_miya.dll
+C:\Users\shami\source\repos\Lab05-OOPPractice\lab05_miya\lab05_miya\bin\Debug\netcoreapp2.0\lab05_miya.pdb
+C:\Users\shami\source\repos\Lab05-OOPPractice\lab05_miya\lab05_miya\obj\Debug\netcoreapp2.0\lab05_miya.csprojResolveAssemblyReference.cache
+C:\Users\shami\source\repos\Lab05-OOPPractice\lab05_miya\lab05_miya\obj\Debug\netcoreapp2.0\lab05_miya.csproj.CoreCompileInputs.cache
+C:\Users\shami\source\repos\Lab05-OOPPractice\lab05_miya\lab05_miya\obj\Debug\netcoreapp2.0\lab05_miya.AssemblyInfoInputs.cache
+C:\Users\shami\source\repos\Lab05-OOPPractice\lab05_miya\lab05_miya\obj\Debug\netcoreapp2.0\lab05_miya.AssemblyInfo.cs
+C:\Users\shami\source\repos\Lab05-OOPPractice\lab05_miya\lab05_miya\obj\Debug\netcoreapp2.0\lab05_miya.dll
+C:\Users\shami\source\repos\Lab05-OOPPractice\lab05_miya\lab05_miya\obj\Debug\netcoreapp2.0\lab05_miya.pdb
